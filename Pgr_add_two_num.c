@@ -6,7 +6,7 @@ int main() // its a function
 {
     int num1 = 30, int2 = 50; // given two numbers are initialized
 
-    printf("Addition of two number is: %d", num1 + num2);
+    printf("Addition of two number is: %d", num1 + num2); // here addition of two number 
 
     return 0; //return keyword used for proper initialization
 }
